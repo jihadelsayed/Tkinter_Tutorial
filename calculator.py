@@ -1,6 +1,5 @@
 # import the library
 from tkinter import *
-from types import lambdaType
 
 root = Tk()
 root.title("Simple Calculator")
